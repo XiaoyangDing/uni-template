@@ -1,0 +1,28 @@
+uni-page-body {
+	background: #FAFBFF;
+	height: 100%;
+}
+
+view,
+scroll-view,
+swiper,
+match-media,
+movable-area,
+movable-view,
+cover-view,
+cover-image,
+icon,
+text,
+rich-text,
+progress,
+button,checkboxe,ditor,
+form,input,label,picker,picker-view,radio,
+slider,switch,textarea,navigator,
+audio,
+camera,
+image,video,
+live-player,
+live-pusher,
+map,canvas,web-view,:before, :after{
+  box-sizing: border-box;
+}
